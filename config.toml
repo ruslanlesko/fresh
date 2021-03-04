@@ -1,0 +1,25 @@
+baseURL = "https://fresh.leskor.com"
+languageCode = "en-us"
+title = "Fresh"
+theme = "diary"
+copyright = "2020 - 2021 Ruslan Lesko"
+
+[params]
+subtitle = "by Ruslan Lesko"
+favicon = "/favicon-196.png"
+enableOpenGraph = true
+enableTwitterCards = true
+description = "Technology blog by Ruslan Lesko"
+
+[frontmatter]
+lastmod = []
+
+[[menu.main]]
+url = "/tags"
+name = "Tags"
+weight = 1
+
+[[menu.main]]
+url = "/posts"
+name = "Archive"
+weight = 2
