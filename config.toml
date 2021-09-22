@@ -1,4 +1,4 @@
-baseURL = "http://localhost:8083"
+baseURL = "https://fresh.leskor.com"
 languageCode = "en-us"
 title = "Fresh"
 theme = "diary"
