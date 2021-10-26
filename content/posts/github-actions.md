@@ -17,9 +17,11 @@ Enabling Actions was easy and intuitive. To do that, go to the Actions section o
 
 ![Initial page of GitHub Actions](/gh_pipeline.jpeg "Initial page of GitHub Actions")
 
-As an additional feature, you can add a CI badge to your readme to show the current build status. Please take a look at the [tutorial by Jason Etcovitch](https://github.com/JasonEtco/action-badges) if you are interested in this feature.
+As an additional feature, you can add a CI badge to your readme to show the current build status. It can be done from a 'more' button on a specific workflow:
 
-![Build status badge](/gh_badge.jpeg "Build status badge")
+![Creating the status badge](/gh_create_badge.png "Creating the status badge")
+
+![Build status badge](/gh_badge.png "Build status badge")
 
 I do recommend enabling Actions if you haven't already. At least it will add visibility of the current status of your code, whether it is working or not. Also, it may help with the PR review. PR page will show how changes affect build status. 
 
