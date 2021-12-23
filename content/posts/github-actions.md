@@ -3,8 +3,9 @@ title: "Trying GitHub Actions"
 date: 2020-10-18T13:00:00+03:00
 description: "First look at the new GitHub functionality"
 tags: [GitHub]
-featured_image: "/gh_actions.jpg"
-images: ["gh_actions.jpg"]
+cover:
+    image: "/gh_actions.jpg"
+    alt: "GitHub Actions logo"
 ---
 
 A few months ago, GitHub rolled out their own CI solution called GitHub Actions. Since I host my PalermoPG and BrightonUM projects on GitHub, I decided to try it. 

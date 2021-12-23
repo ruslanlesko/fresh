@@ -3,7 +3,9 @@ title: "Introducing PaleromPG"
 date: 2020-07-20T15:05:00+03:00
 description: "I have created a server for the picture gallery"
 tags: [Projects]
-featured_image: "/palermopg_logo.png"
+cover:
+    image: "/palermopg_logo.png"
+    alt: "PalermoPG logo"
 ---
 
 https://github.com/ruslanlesko/palermopg

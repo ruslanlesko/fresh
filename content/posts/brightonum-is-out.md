@@ -3,7 +3,9 @@ title: "BrightonUM project release"
 date: 2020-05-28T18:50:50+03:00
 description: "I have created a lightweight user management system"
 tags: [Projects]
-featured_image: "/brightonum_logo.jpg"
+cover:
+    image: "/brightonum_logo.jpg"
+    alt: "BrightonUM logo"
 ---
 https://github.com/ruslanlesko/brightonum
 

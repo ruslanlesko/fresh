@@ -3,7 +3,9 @@ title: "Finding project ideas in the forest"
 date: 2021-09-22T18:02:00+02:00
 description: "Short story of me trying to become more creative by going into the forest for vacation."
 tags: [Lifestyle]
-featured_image: "/sitting_in_forest.jpg"
+cover:
+    image: "/sitting_in_forest.jpg"
+    alt: "Me sitting on the chair in the forest"
 ---
 
 As daily work becomes routine, it can be hard to open your mind to fresh ideas. It was one of the reasons for me to take an unexpected vacation in the forest. I am currently in the process of finding a new pet project. And I changed my surroundings dramatically from the loud and quick city to the calm nature to boost the creative parts of my mind.

@@ -3,7 +3,9 @@ title: "AirPicHub preview version has been launched"
 date: 2020-05-10T19:21:54+03:00
 description: "Your own photo gallery in the cloud"
 tags: [Projects]
-featured_image: "/aph_page.jpg"
+cover:
+    image: "/aph_page.jpg"
+    alt: "Website homepage"
 ---
 
 Today I have launched the first version of AirPicHub! It is available at [airpichub.leskor.com](https://airpichub.leskor.com).

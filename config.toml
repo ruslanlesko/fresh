@@ -1,18 +1,34 @@
 baseURL = "https://fresh.leskor.com"
 languageCode = "en-us"
 title = "Fresh"
-theme = "diary"
+description = "Blog by Ruslan Lesko"
+theme = "PaperMod"
 copyright = "2020 - 2021 Ruslan Lesko"
 
-[params]
-subtitle = "by Ruslan Lesko"
-favicon = "/favicon-196.png"
-enableOpenGraph = true
-enableTwitterCards = true
-description = "Technology blog by Ruslan Lesko"
+enableRobotsTXT = true
 
-[frontmatter]
-lastmod = []
+[params]
+keywords = ["Blog", "Fresh", "Ruslan Lesko"]
+env = "production"
+defaultTheme = "auto"
+description = "Technology blog by Ruslan Lesko"
+comments = false
+
+[params.homeInfoParams]
+Title = "Fresh"
+Content = "Welcome to **Fresh**! This is a techonology blog by me, [Ruslan Lesko](https://leskor.com). Please note that here I post personal thoughts, and they may be opinionated. I usually post about programming in Java, technology in general, and lifestyle."
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/ruslanlesko/fresh"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/LeskoRuslan"
+
+[[params.socialIcons]]
+name = "rss"
+url = "/index.xml"
 
 [[menu.main]]
 url = "/tags"
