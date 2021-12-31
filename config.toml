@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Fresh"
 description = "Blog by Ruslan Lesko"
 theme = "PaperMod"
-copyright = "2020 - 2021 Ruslan Lesko"
+copyright = "2020 - 2022 Ruslan Lesko"
 
 enableRobotsTXT = true
 
