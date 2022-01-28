@@ -1,5 +1,5 @@
 ---
-title: "JetBrains Fleet review"
+title: "JetBrains Fleet review (preview version)"
 date: 2022-01-27T19:05:00+03:00
 description: "What I discovered during Fleet beta testing"
 tags: [Tools]
