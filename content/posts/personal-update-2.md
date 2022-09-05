@@ -12,4 +12,4 @@ Assuming the fact that I spent several months in the army, my pet project [Diges
 
 Stand with Ukraine!
 
-![Me working from village](/me_working_from_village.JPG "Me working from village")
+![Me working from village](/me_working_from_village.jpg "Me working from village")
