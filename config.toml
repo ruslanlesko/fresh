@@ -1,6 +1,6 @@
-baseURL = "https://fresh.leskor.com"
+baseURL = "https://blog.leskor.com"
 languageCode = "en-us"
-title = "Fresh"
+title = "Ruslan's Tech Talk"
 description = "Blog by Ruslan Lesko"
 theme = "PaperMod"
 copyright = "2020 - 2023 Ruslan Lesko"
@@ -8,15 +8,15 @@ copyright = "2020 - 2023 Ruslan Lesko"
 enableRobotsTXT = true
 
 [params]
-keywords = ["Blog", "Fresh", "Ruslan Lesko"]
+keywords = ["Blog", "Ruslan's Tech Talk", "Ruslan Lesko"]
 env = "production"
 defaultTheme = "auto"
 description = "Technology blog by Ruslan Lesko"
 comments = false
 
 [params.homeInfoParams]
-Title = "Fresh"
-Content = "Welcome to **Fresh**! This is a techonology blog by me, [Ruslan Lesko](https://leskor.com). Please note that here I post personal thoughts, and they may be opinionated. I usually post about programming in Java, technology in general, and lifestyle."
+Title = "Ruslan's Tech Talk"
+Content = "Welcome to **Ruslan's Tech Talk**! This is a techonology blog by me, [Ruslan Lesko](https://leskor.com). Please note that here I post personal thoughts, and they may be opinionated. I usually post about programming in Java, technology in general, and lifestyle."
 
 [[params.socialIcons]]
 name = "github"
