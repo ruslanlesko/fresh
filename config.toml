@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Ruslan's Tech Talk"
 description = "Blog by Ruslan Lesko"
 theme = "PaperMod"
-copyright = "2020 - 2024 Ruslan Lesko"
+copyright = "2020 - 2025 Ruslan Lesko"
 
 enableRobotsTXT = true
 
@@ -25,8 +25,8 @@ name = "github"
 url = "https://github.com/ruslanlesko/fresh"
 
 [[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com/LeskoRuslan"
+name = "x"
+url = "https://x.com/LeskoRuslan"
 
 [[params.socialIcons]]
 name = "rss"
